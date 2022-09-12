@@ -19,3 +19,6 @@ argocd login localhost:8080
 (enter 'admin' as username and the password from the secrets)
 argocd app get demo-argo-application
 ```
+
+## See More
+https://argo-cd.readthedocs.io/en/stable/getting_started/
